@@ -123,7 +123,6 @@ public class LecturaSecuencialClub {
 
         return cadena;
     }
-
     // cierra el archivo y termina la aplicación
     public void cerrarArchivo() {
         try // cierra el archivo y sale
